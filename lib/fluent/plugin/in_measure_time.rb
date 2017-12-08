@@ -1,3 +1,4 @@
+require 'fluent/input'
 require 'fluent/plugin/measure_timable'
 
 module Fluent
